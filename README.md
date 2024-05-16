@@ -13,8 +13,14 @@
 
 #### Часть 2: EDA
 
-в разработке
+🚩 [Разведочный анализ](https://github.com/nedokormysh/NLP_Fontanka/blob/main/Pymagic_EDA.ipynb)
 
 #### Часть 3: реализация классификации
 
-в разработке
+🔹 [Получение бейслайн моделей](https://github.com/nedokormysh/NLP_Fontanka/blob/main/Pymagic_baseline.ipynb)
+🔸 [Подбор гиперпараметров и реализация стекинга](https://github.com/nedokormysh/NLP_Fontanka/blob/main/Pymagic_tuning.ipynb)
+
+### Автор 
+* Илья Березуцкий
+* t.me/nedokormysh
+* e-mail: nedokormysh@live.com
