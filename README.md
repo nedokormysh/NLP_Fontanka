@@ -18,6 +18,7 @@
 #### Часть 3: реализация классификации
 
 🔹 [Получение бейслайн моделей](https://github.com/nedokormysh/NLP_Fontanka/blob/main/Pymagic_baseline.ipynb)
+
 🔸 [Подбор гиперпараметров и реализация стекинга](https://github.com/nedokormysh/NLP_Fontanka/blob/main/Pymagic_tuning.ipynb)
 
 ### Автор 
