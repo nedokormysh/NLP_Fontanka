@@ -13,13 +13,13 @@
 
 #### Часть 2: EDA
 
-🚩 [Разведочный анализ](https://github.com/nedokormysh/NLP_Fontanka/blob/main/Pymagic_EDA.ipynb)
+🚩 [Разведочный анализ](https://github.com/nedokormysh/NLP_Fontanka/blob/main/notebooks/Pymagic_EDA.ipynb)
 
 #### Часть 3: реализация классификации
 
-🔹 [Получение бейслайн моделей](https://github.com/nedokormysh/NLP_Fontanka/blob/main/Pymagic_baseline.ipynb)
+🔹 [Получение бейслайн моделей](https://github.com/nedokormysh/NLP_Fontanka/blob/main/notebooks/Pymagic_baseline.ipynb)
 
-🔸 [Подбор гиперпараметров и реализация стекинга](https://github.com/nedokormysh/NLP_Fontanka/blob/main/Pymagic_tuning.ipynb)
+🔸 [Подбор гиперпараметров и реализация стекинга](https://github.com/nedokormysh/NLP_Fontanka/blob/main/notebooks/Pymagic_tuning.ipynb)
 
 ### Автор 
 * Илья Березуцкий
